@@ -1,0 +1,11 @@
+c:\users\welsa\source\repos\Rock-Paper-Scissors\Rock_Paper_Scissors\bin\Debug\netcoreapp2.1\Rock_Paper_Scissors.deps.json
+c:\users\welsa\source\repos\Rock-Paper-Scissors\Rock_Paper_Scissors\bin\Debug\netcoreapp2.1\Rock_Paper_Scissors.runtimeconfig.json
+c:\users\welsa\source\repos\Rock-Paper-Scissors\Rock_Paper_Scissors\bin\Debug\netcoreapp2.1\Rock_Paper_Scissors.runtimeconfig.dev.json
+c:\users\welsa\source\repos\Rock-Paper-Scissors\Rock_Paper_Scissors\bin\Debug\netcoreapp2.1\Rock_Paper_Scissors.dll
+c:\users\welsa\source\repos\Rock-Paper-Scissors\Rock_Paper_Scissors\bin\Debug\netcoreapp2.1\Rock_Paper_Scissors.pdb
+c:\users\welsa\source\repos\Rock-Paper-Scissors\Rock_Paper_Scissors\obj\Debug\netcoreapp2.1\Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+c:\users\welsa\source\repos\Rock-Paper-Scissors\Rock_Paper_Scissors\obj\Debug\netcoreapp2.1\Rock_Paper_Scissors.AssemblyInfoInputs.cache
+c:\users\welsa\source\repos\Rock-Paper-Scissors\Rock_Paper_Scissors\obj\Debug\netcoreapp2.1\Rock_Paper_Scissors.AssemblyInfo.cs
+c:\users\welsa\source\repos\Rock-Paper-Scissors\Rock_Paper_Scissors\obj\Debug\netcoreapp2.1\Rock_Paper_Scissors.dll
+c:\users\welsa\source\repos\Rock-Paper-Scissors\Rock_Paper_Scissors\obj\Debug\netcoreapp2.1\Rock_Paper_Scissors.pdb
+c:\users\welsa\source\repos\Rock-Paper-Scissors\Rock_Paper_Scissors\obj\Debug\netcoreapp2.1\Rock_Paper_Scissors.csprojAssemblyReference.cache
